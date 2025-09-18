@@ -68,8 +68,11 @@ Abra o notebook:
 bash
 Copiar código
 jupyter notebook titanic.ipynb
+
 📌 Fontes
+
 Kaggle - Titanic: Machine Learning from Disaster
 
 ✨ Autor
-Projeto desenvolvido por Carlo Lacerda como parte de estudos em análise de dados e machine learning.
+
+Projeto desenvolvido por Carlos Lacerda como parte de estudos em análise de dados e machine learning.
