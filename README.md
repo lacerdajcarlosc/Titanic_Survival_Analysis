@@ -72,4 +72,4 @@ jupyter notebook titanic.ipynb
 Kaggle - Titanic: Machine Learning from Disaster
 
 ✨ Autor
-Projeto desenvolvido por [Seu Nome] como parte de estudos em análise de dados e machine learning.
+Projeto desenvolvido por Carlo Lacerda como parte de estudos em análise de dados e machine learning.
